@@ -25,6 +25,9 @@ fields:
   name: banner_image
   label: Banner Image
   description: Ideal dimensions 2500px by 1200px
+- type: text
+  name: test_field
+  label: test field
 - type: list
   name: related_posts
   label: Related Posts
