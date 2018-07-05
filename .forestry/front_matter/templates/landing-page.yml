@@ -79,4 +79,5 @@ fields:
   hidden: true
   default: home
 pages:
+- _projects/test2.html
 - index.md
